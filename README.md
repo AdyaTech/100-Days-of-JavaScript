@@ -8,7 +8,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 3 | Random Hex Color Generator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%203)|
 | 4 | Palindrome Checker |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%204)|
 | 5 | Vowel Counter App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%205)|
-| 6 | Click to Copy |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%206)|
+| 6 | ClickCopy App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%206)|
 
 ## Output
 1. Counter App
@@ -31,6 +31,6 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 
 ![ Vowel Counter App  Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%205/Video.gif)
 
-6. Click to Copy
+6. ClickCopy App
 
-![ Click to Copy  Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%206/Video.gif)
+![ ClickCopy App Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%206/Video.gif)
