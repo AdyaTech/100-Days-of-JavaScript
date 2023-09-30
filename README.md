@@ -43,5 +43,5 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 
 8. Quiz App
 
-![ Quiz App Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%207/Video.gif)
+![ Quiz App Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%208/Video.gif)
 
