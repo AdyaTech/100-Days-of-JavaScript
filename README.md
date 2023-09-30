@@ -10,6 +10,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 5 | Vowel Counter App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%205)|
 | 6 | ClickCopy App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%206)|
 | 7 | Character Input |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%207)|
+| 8 | Quiz App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%208)|
 
 ## Output
 1. Counter App
@@ -39,3 +40,8 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 7. Character Input
 
 ![ Character Input Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%207/Video.gif)
+
+8. Quiz App
+
+![ Quiz App Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%207/Video.gif)
+
