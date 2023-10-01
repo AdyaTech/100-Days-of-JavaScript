@@ -11,6 +11,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 6 | ClickCopy App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%206)|
 | 7 | Character Input |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%207)|
 | 8 | Quiz App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%208)|
+| 9 | Calculator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%209)|
 
 ## Output
 1. Counter App
@@ -45,3 +46,6 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 
 ![ Quiz App Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%208/Video.gif)
 
+9. Calculator
+
+![ Calculator Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%209/Video.gif)
