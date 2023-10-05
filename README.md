@@ -15,6 +15,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 10 | Random Password Generator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2010)|
 | 11 | To Do App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2011)|
 | 12 | Weather App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2012)|
+| 13 | List Search |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2013)|
 
 ## Output
 1. Counter App
@@ -64,3 +65,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 12. Weather App
 
 ![ Weather App Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2012/Video.gif)
+
+13. List Search
+
+![ List Search Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2013/Video.gif)
