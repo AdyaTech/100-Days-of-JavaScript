@@ -19,6 +19,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 14 | Word Count Tool |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2014)|
 | 15 | Weight Converter |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2015)|
 | 16 | Toggle It |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2016)|
+| 17 | Multi-step Form |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2017)|
 
 ## Output
 1. Counter App
@@ -84,3 +85,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 16. Toggle It
 
 ![ Toggle It Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2016/Video.gif)
+
+17. Multi-step Form
+    
+![ Multi-step Form Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2017/Video.gif)
