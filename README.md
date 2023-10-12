@@ -22,6 +22,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 17 | Multi-step Form |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2017)|
 | 18 | Card UI |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2018)|
 | 19 | Temperature Converter |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2019)|
+| 20 | Note Taker |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2020.)|
 
 ## Output
 1. Counter App
@@ -99,3 +100,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 19. Temperature Converter
     
 ![ Temperature Converter Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2019/video.gif)
+
+20. Note Taker
+    
+![ Note Taker Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2020./video.mp4)
