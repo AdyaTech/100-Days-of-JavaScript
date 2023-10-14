@@ -24,6 +24,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 19 | Temperature Converter |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2019)|
 | 20 | Note Taker |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2020)|
 | 21 | Password Visibility |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2021)|
+| 22 | Movie App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2022)|
 
 ## Output
 1. Counter App
@@ -109,3 +110,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 21. Password Visibility
     
 ![ Password Visibility Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2021/video.gif)
+
+22. Movie App
+    
+![ Movie App Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2022/Video.mp4)
