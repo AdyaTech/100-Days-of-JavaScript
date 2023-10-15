@@ -25,6 +25,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 20 | Note Taker |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2020)|
 | 21 | Password Visibility |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2021)|
 | 22 | Movie App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2022)|
+| 23 | BMI Calculator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2023)|
 
 ## Output
 1. Counter App
@@ -114,3 +115,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 22. Movie App
     
 ![ Movie App Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2022/Video.mp4)
+
+23. BMI Calculator
+    
+![ BMI Calculator Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2023/video.gif)
