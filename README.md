@@ -26,6 +26,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 21 | Password Visibility |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2021)|
 | 22 | Movie App |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2022)|
 | 23 | BMI Calculator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2023)|
+| 24 | Product Filter |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2024)|
 
 ## Output
 1. Counter App
