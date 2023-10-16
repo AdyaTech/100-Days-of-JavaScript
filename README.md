@@ -120,3 +120,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 23. BMI Calculator
     
 ![ BMI Calculator Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2023/video.gif)
+
+24. Product Filter
+    
+![ Product Filter Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2024/video.mp4)
