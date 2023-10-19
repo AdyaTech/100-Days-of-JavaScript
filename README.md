@@ -29,6 +29,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 24 | Product Filter |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2024)|
 | 25 | Form Validation |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2025)|
 | 26 | Currency Converter |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2026)|
+| 27 | Animated Login Form |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2027)|
 
 ## Output
 1. Counter App
@@ -134,3 +135,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 26. Currency Converter
     
 ![ Currency Converter Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2026/video.gif)
+
+27. Animated Login Form
+    
+![ Animated Login Form Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2027/video.gif)
