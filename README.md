@@ -31,6 +31,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 26 | Currency Converter |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2026)|
 | 27 | Animated Login Form |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2027)|
 | 28 | Password Strength Indicator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2028)|
+| 29 | Progress Bar |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2029)|
 
 ## Output
 1. Counter App
@@ -144,3 +145,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 28. Password Strength Indicator
     
 ![ Password Strength Indicator Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2028/video.gif)
+
+29. Progress Indicator
+    
+![ Progress Indicator Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2029/video.gif)
