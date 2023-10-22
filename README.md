@@ -32,6 +32,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 27 | Animated Login Form |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2027)|
 | 28 | Password Strength Indicator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2028)|
 | 29 | Progress Bar |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2029)|
+| 30 | Custom Confirm Box |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2030)|
 
 ## Output
 1. Counter App
@@ -149,3 +150,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 29. Progress Indicator
     
 ![ Progress Indicator Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2029/video.gif)
+
+30. Custom Confirm Box
+    
+![ Custom Confirm Box Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2030/video.gif)
