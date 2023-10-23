@@ -33,6 +33,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 28 | Password Strength Indicator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2028)|
 | 29 | Progress Bar |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2029)|
 | 30 | Custom Confirm Box |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2030)|
+| 31 | Custom Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2031)|
 
 ## Output
 1. Counter App
@@ -154,3 +155,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 30. Custom Confirm Box
     
 ![ Custom Confirm Box Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2030/video.gif)
+
+31. Custom Range Slider
+    
+![ Custom Range Slider Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2031/video.gif)
