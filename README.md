@@ -34,6 +34,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 29 | Progress Bar |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2029)|
 | 30 | Custom Confirm Box |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2030)|
 | 31 | Custom Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2031)|
+| 32 | Text Limit |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2032)|
 
 ## Output
 1. Counter App
@@ -159,3 +160,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 31. Custom Range Slider
     
 ![ Custom Range Slider Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2031/video.gif)
+
+32. Text Limit
+    
+![ Text Limit Slider Output](https://github.com/AdyaTech/100-Days-of-JavaScript/blob/main/Day%2032/video.gif)
