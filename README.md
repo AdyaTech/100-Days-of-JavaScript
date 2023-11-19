@@ -36,7 +36,9 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 31 | Custom Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2031)|
 | 32 | Text Limit |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2032)|
 | 33 | Pricing Table |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2033)|
-
+| 33 | Pricing Table |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2033)|
+| 33 | Pricing Table |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2033)|
+| 33 | Pricing Table |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2033)|
 ## Output
 1. Counter App
 
