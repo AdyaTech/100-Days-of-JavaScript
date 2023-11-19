@@ -48,12 +48,12 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 43 | Lightbulb |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2043)|
 | 44 | Twisted Pyramid |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2044)|
 | 45 | Hover Me |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2045)|
-| 46 | Iris Circles |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2046)|
+| 46 | Hover and Click |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2046)|
 | 47 | Pixel Art |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2047)|
 | 48 | 3D Rubik's Cube |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2048)|
-| 49 | CSS Follow |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2049)|
+| 49 | Animated Slideshow |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2049)|
 | 50 | Easter Egg |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2050)|
-| 51 | CSS Counter |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2051)|
+| 51 | Page Scroller |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2051)|
 | 52 | Dot Wave |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2052)|
 | 53 | Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2053)|
 | 54 | Waves |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2054)|
