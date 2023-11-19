@@ -36,9 +36,31 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 31 | Custom Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2031)|
 | 32 | Text Limit |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2032)|
 | 33 | Pricing Table |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2033)|
-| 33 | Pricing Table |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2033)|
-| 33 | Pricing Table |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2033)|
-| 33 | Pricing Table |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2033)|
+| 34 | Hello |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2034)|
+| 35 | Loading Circle |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2035)|
+| 36 | Tabs |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2036)|
+| 37 | Carousel |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2037)|
+| 38 | Logo Transition |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2038)|
+| 39 | Menu Toggle |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2039)|
+| 40 | Gallery |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2040)|
+| 41 | Error Modal |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2041)|
+| 42 | Stars |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2042)|
+| 43 | Lightbulb |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2043)|
+| 44 | Twisted Pyramid |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2044)|
+| 45 | Hover Me |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2045)|
+| 46 | Iris Circles |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2046)|
+| 47 | Pixel Art |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2047)|
+| 48 | 3D Rubik's Cube |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2048)|
+| 49 | CSS Follow |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2049)|
+| 50 | Easter Egg |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2050)|
+| 51 | CSS Counter |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2051)|
+| 52 | Dot Wave |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2052)|
+| 53 | Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2053)|
+| 54 | Waves |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2054)|
+| 55 | Thermostat |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2055)|
+| 56 | Flower |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2056)|
+| 57 | Icosahedron |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2057)|
+| 58 | 3D Sphere |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2058)|
 ## Output
 1. Counter App
 
