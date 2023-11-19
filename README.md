@@ -54,12 +54,13 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 49 | Test Popup |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2049)|
 | 50 | Scrolling of Webpage |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2050)|
 | 51 | Google Drive Download |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2051)|
-| 52 | Page Scroller |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2052)|
+| 52 | API |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2052)|
 | 53 | Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2053)|
 | 54 | Button |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2054)|
 | 55 | Forecast |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2055)|
 | 56 | Scroller |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2056)|
 | 57 | Gallery |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2057)|
+| 58 | Scroller |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2058)|
 
 ## Output
 1. Counter App
