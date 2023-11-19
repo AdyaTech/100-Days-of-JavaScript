@@ -36,24 +36,24 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 31 | Custom Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2031)|
 | 32 | Text Limit |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2032)|
 | 33 | Pricing Table |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2033)|
-| 34 | Hello |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2034)|
-| 35 | Loading Circle |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2035)|
-| 36 | Tabs |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2036)|
-| 37 | Carousel |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2037)|
-| 38 | Logo Transition |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2038)|
-| 39 | Menu Toggle |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2039)|
-| 40 | Gallery |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2040)|
-| 41 | Error Modal |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2041)|
-| 42 | Stars |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2042)|
-| 43 | Lightbulb |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2043)|
-| 44 | Twisted Pyramid |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2044)|
-| 45 | Hover Me |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2045)|
-| 46 | Hover and Click |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2046)|
-| 47 | Pixel Art |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2047)|
-| 48 | 3D Rubik's Cube |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2048)|
-| 49 | Animated Slideshow |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2049)|
-| 50 | Easter Egg |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2050)|
-| 51 | Page Scroller |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2051)|
+| 34 | Age Calculator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2034)|
+| 35 | Digital Piano |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2035)|
+| 36 | A Game |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2036)|
+| 37 | Floating Action Button |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2037)|
+| 38 | Scroll to Top |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2038)|
+| 39 | Tabs |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2039)|
+| 40 | Internet Connection detector |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2040)|
+| 41 | Digital Clock |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2041)|
+| 42 | Quote Generator|[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2042)|
+| 43 | Being Alert |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2043)|
+| 44 | Tip Calculator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2044)|
+| 45 | Typewriting Effect |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2045)|
+| 46 | Image Gallery |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2046)|
+| 47 | Filterable Gallery |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2047)|
+| 48 | Stopwatch |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2048)|
+| 49 | Test Popup |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2049)|
+| 50 | Scrolling of Webpage |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2050)|
+| 51 | Google Drive Download |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2051)|
 | 52 | Dot Wave |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2052)|
 | 53 | Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2053)|
 | 54 | Waves |[Link](https://github.com/AdyaTech/100-Days-of-CSS/tree/main/Day%2054)|
