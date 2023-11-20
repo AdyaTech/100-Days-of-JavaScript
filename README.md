@@ -55,7 +55,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 50 | Scrolling of Webpage |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2050)|
 | 51 | Google Drive Download |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2051)|
 | 52 | Location Detector |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2052)|
-| 53 | Range Slider |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2053)|
+| 53 | Link Generator |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2053)|
 | 54 | Button |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2054)|
 | 55 | Forecast |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2055)|
 | 56 | Scroller |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2056)|
