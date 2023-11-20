@@ -61,7 +61,7 @@ Starting the '100 Days' challenge using JavaScript along with HTML &amp; CSS
 | 56 | Scroller |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2056)|
 | 57 | Gallery |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2057)|
 | 58 | Scroller |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2058)|
-
+| 59 | Click to Change |[Link](https://github.com/AdyaTech/100-Days-of-JavaScript/tree/main/Day%2059)|
 ## Output
 1. Counter App
 
