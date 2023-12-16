@@ -1,0 +1,150 @@
+:root {
+    --black: #000;
+    --grey: #7D808A;
+    --white: #fff;
+    --clr1: #b8eafd;
+    --clr2: #6BB3F2;
+    --clr3: #3c8ad3;
+    --clr4: #42b3ff;
+    --clr5: #004d91;
+    --clr6: #003380;
+}
+
+*,
+*::after,
+*::before,
+html,
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: var(--grey);
+    display: grid;
+    height: 100vh;
+    place-items: center;
+}
+
+#poster {
+    background-color: var(--white);
+    border: 2vmin solid var(--black);
+    box-shadow: 0 4vmin 8vmin -4vmin;
+    box-sizing: content-box;
+    display: grid;
+    height: 80vmin;
+    padding: 4vmin;
+    place-items: center;
+    width: 50vmin;
+}
+
+#canvas {
+    align-items: flex-end;
+    background: radial-gradient(circle at 50% 75%, var(--clr4), var(--clr6));
+    display: flex;
+    height: 80vmin;
+    overflow: hidden;
+    justify-content: center;
+    position: relative;
+    width: 50vmin;
+}
+
+#mountain {
+    bottom: 24vmin;
+    align-items: start;
+    display: flex;
+    height: 60vmin;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+}
+
+#canvas div span {
+    background: var(--clr5);
+    border-radius: 2.4vmin;
+    height: 30vmin;
+    position: absolute;
+    transform: rotate(45deg);
+    transition: .3s linear;
+    width: 30vmin;
+}
+
+#canvas div span:nth-child(1) {
+    bottom: -10vmin;
+    right: -8vmin;
+}
+
+#canvas div span:nth-child(2) {
+    left: -10vmin;
+    bottom: -24vmin;
+}
+
+#canvas div span:nth-child(3) {
+    bottom: -19vmin;
+    left: 2vmin;
+}
+
+#canvas div span:nth-child(4) {
+    bottom: -22vmin;
+    right: -12vmin;
+}
+
+#canvas div span:nth-child(5) {
+    bottom: -24vmin;
+    right: 0vmin;
+}
+
+#canvas div span:nth-child(6) {
+    bottom: -29vmin;
+    right: 10vmin;
+}
+
+#snow {
+    height: 120%;
+    position: absolute;
+    right: -10%;
+    top: -10%;
+    width: 120%;
+    z-index: 100;
+}
+
+#snow s {
+    animation: fall linear forwards;
+    background-color: var(--white);
+    border-radius: 100% !important;
+    position: absolute;
+	  text-decoration:none;
+    top: 0;
+    transition: .1s linear;
+    transform: rotate(45deg) translate(0);
+}
+
+@keyframes fall {
+    100% {
+        transform: rotate(45deg) translate(0, 150vh);
+    }
+}
+
+#land {
+    background: radial-gradient(circle at 50% -25%, var(--clr4), var(--clr6));
+    bottom: 0;
+    height: 24vmin;
+    position: absolute;
+    width: 100%;
+}
+
+#mountainClone {
+    bottom: -33vmin;
+    align-items: flex-end;
+    display: flex;
+    height: 60vmin;
+    mix-blend-mode: multiply;
+    overflow: hidden;
+    opacity: .5;
+    position: absolute;
+    transform: scale(1, -.9);
+    width: 100%;
+    z-index: 1;
+}
