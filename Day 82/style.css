@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  .star {
+    position: absolute;
+    width: 40px; /* nSize */
+    height: 40px; /* nSize */ 
+    background-color: #222; /* baseColor */
+    clip-path: polygon(
+      50% 0%,
+      61% 35%,
+      98% 35%,
+      68% 57%,
+      79% 91%,
+      50% 70%,
+      21% 91%,
+      32% 57%,
+      2% 35%,
+      39% 35%
+    );
+    transform-origin: center center;
+    animation: swing linear infinite;
+  }
+  
+  @keyframes swing {
+    0%,
+    100% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: translate(0%, 80%) scale(0.33) rotate(120deg);
+      filter: blur(1rem);
+    }
+  }
+  
