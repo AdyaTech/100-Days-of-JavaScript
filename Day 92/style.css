@@ -1,0 +1,306 @@
+@import url("https://fonts.googleapis.com/css2?family=Snowburst+One&display=swap");
+*, *::before, *::after {
+  padding: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Snowburst One", serif;
+  background-color: #000;
+  color: #fff;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  perspective: 800px;
+  overflow: hidden;
+  cursor: pointer;
+  -webkit-animation: var(--animation, pointerEvents) 1.6s;
+          animation: var(--animation, pointerEvents) 1.6s;
+}
+@-webkit-keyframes pointerEvents {
+  0%, 100% {
+    pointer-events: none;
+  }
+}
+@keyframes pointerEvents {
+  0%, 100% {
+    pointer-events: none;
+  }
+}
+body * {
+  transform-style: preserve-3d;
+}
+body:active {
+  --snowmanScaleY: 0.95;
+  --animation: none;
+  --textOpacity: 0;
+}
+
+.text {
+  position: fixed;
+  left: 1em;
+  top: 1em;
+  font-size: 2em;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  opacity: var(--textOpacity, 1);
+  transition: opacity var(--textOpacity, 0.4s 1.2s);
+}
+
+.scene {
+  position: relative;
+  transform: rotateX(-20deg) rotateY(calc(60deg * var(--x, 0.5) - 30deg));
+}
+.scene * {
+  position: absolute;
+}
+
+.floor {
+  position: absolute;
+  inset: -100em;
+  z-index: -1;
+  transform: rotateX(90deg) translateZ(-6.1em);
+  background-color: #f00;
+  background-image: radial-gradient(closest-side, #0000, #000), radial-gradient(closest-side, #000, #0000 7%), repeating-radial-gradient(circle at 51% 50%, #000e 0, #0000, #000e 10em), repeating-radial-gradient(circle at 50% 50%, #fff2 0, #0000, #fff2 10em), repeating-linear-gradient(-45deg, black 0 25px, transparent 0 30px), repeating-linear-gradient(45deg, black 0 25px, transparent 0 30px), conic-gradient(red, orange, yellow, green, blue, purple, red);
+  -webkit-animation: var(--animation, floor) 0.8s 0.8s ease-out;
+          animation: var(--animation, floor) 0.8s 0.8s ease-out;
+}
+@-webkit-keyframes floor {
+  0%, 100% {
+    transform: rotateX(90deg) translateZ(-6.1em) scale(1);
+  }
+  5% {
+    transform: rotateX(90deg) translateZ(-6.1em) scale(1.1);
+  }
+}
+@keyframes floor {
+  0%, 100% {
+    transform: rotateX(90deg) translateZ(-6.1em) scale(1);
+  }
+  5% {
+    transform: rotateX(90deg) translateZ(-6.1em) scale(1.1);
+  }
+}
+
+.snowman {
+  transform: scaleY(var(--snowmanScaleY, 1));
+  transition: transform 0.2s;
+  -webkit-animation: var(--animation, jump) 0.4s 2 alternate ease-out;
+          animation: var(--animation, jump) 0.4s 2 alternate ease-out;
+}
+@-webkit-keyframes jump {
+  0% {
+    translate: 0 0;
+  }
+  100% {
+    translate: 0 -5em;
+  }
+}
+@keyframes jump {
+  0% {
+    translate: 0 0;
+  }
+  100% {
+    translate: 0 -5em;
+  }
+}
+
+.face {
+  -webkit-animation: faceTranslate 0.4s -0.08s infinite alternate ease-in-out, faceRotate 0.4s -0.24s infinite alternate ease-in-out;
+          animation: faceTranslate 0.4s -0.08s infinite alternate ease-in-out, faceRotate 0.4s -0.24s infinite alternate ease-in-out;
+}
+@-webkit-keyframes faceTranslate {
+  from {
+    translate: 0 -5.2em;
+  }
+  to {
+    translate: 0 -4.8em;
+  }
+}
+@keyframes faceTranslate {
+  from {
+    translate: 0 -5.2em;
+  }
+  to {
+    translate: 0 -4.8em;
+  }
+}
+@-webkit-keyframes faceRotate {
+  from {
+    transform: rotateX(0deg);
+  }
+  to {
+    transform: rotateX(5deg);
+  }
+}
+@keyframes faceRotate {
+  from {
+    transform: rotateX(0deg);
+  }
+  to {
+    transform: rotateX(5deg);
+  }
+}
+.face i {
+  left: -0.5em;
+  width: 1em;
+  height: 6em;
+  background-color: orange;
+  background-image: linear-gradient(to right, #0002, #0000, #0002);
+  transform-origin: top;
+  transform: rotateZ(var(--rz)) translateZ(9.3em) rotateX(-82deg);
+  -webkit-clip-path: polygon(50% 0, 100% 100%, 0 100%);
+          clip-path: polygon(50% 0, 100% 100%, 0 100%);
+}
+.face i:nth-child(1) {
+  --rz: 0deg;
+}
+.face i:nth-child(2) {
+  --rz: 60deg;
+}
+.face i:nth-child(3) {
+  --rz: 120deg;
+}
+.face i:nth-child(4) {
+  --rz: 180deg;
+}
+.face i:nth-child(5) {
+  --rz: 240deg;
+}
+.face i:nth-child(6) {
+  --rz: 300deg;
+}
+.face::before, .face::after {
+  content: "";
+  position: absolute;
+  inset: -0.25em;
+  background-color: #000;
+  border-radius: 50%;
+  transform: rotateX(20deg) rotateY(20deg) translateZ(3.6em);
+}
+.face::after {
+  transform: rotateX(20deg) rotateY(-20deg) translateZ(3.6em);
+}
+
+.body div {
+  inset: var(--inset, -5em);
+  border-radius: 50%;
+  background-color: #fff;
+  background-image: radial-gradient(circle at 50% 10%, #eee, #444);
+  -webkit-clip-path: ellipse(75% 50% at 50% 42%);
+          clip-path: ellipse(75% 50% at 50% 42%);
+  -webkit-animation: body 0.4s var(--delay, 0s) infinite ease-in-out alternate;
+          animation: body 0.4s var(--delay, 0s) infinite ease-in-out alternate;
+}
+@-webkit-keyframes body {
+  from {
+    transform: translateY(calc(var(--ty, 2em) - 0.2em)) rotateY(calc(30deg - 60deg * var(--x, 0.5))) rotateX(20deg);
+  }
+  to {
+    transform: translateY(calc(var(--ty, 2em) + 0.2em)) rotateY(calc(30deg - 60deg * var(--x, 0.5))) rotateX(20deg);
+  }
+}
+@keyframes body {
+  from {
+    transform: translateY(calc(var(--ty, 2em) - 0.2em)) rotateY(calc(30deg - 60deg * var(--x, 0.5))) rotateX(20deg);
+  }
+  to {
+    transform: translateY(calc(var(--ty, 2em) + 0.2em)) rotateY(calc(30deg - 60deg * var(--x, 0.5))) rotateX(20deg);
+  }
+}
+.body div:nth-child(2) {
+  --inset: -3.5em;
+  --ty: -5em;
+  --delay: -0.08s;
+}
+
+.buttons i {
+  inset: -0.4em;
+  border-radius: 50%;
+  background-color: #000;
+  transform: rotateX(var(--rx, 0deg)) translateZ(5em);
+}
+.buttons i:nth-child(2) {
+  --rx: 15deg;
+}
+.buttons i:nth-child(3) {
+  --rx: 30deg;
+}
+
+.hands {
+  -webkit-animation: hands 0.4s 0s infinite ease-in-out alternate;
+          animation: hands 0.4s 0s infinite ease-in-out alternate;
+}
+@-webkit-keyframes hands {
+  from {
+    transform: translateY(1.8em);
+  }
+  to {
+    transform: translateY(2.2em);
+  }
+}
+@keyframes hands {
+  from {
+    transform: translateY(1.8em);
+  }
+  to {
+    transform: translateY(2.2em);
+  }
+}
+
+.stick {
+  left: calc(100% - 0.5em);
+  width: var(--stickWidth, 4em);
+  height: 0.5em;
+  background-color: brown;
+  background-image: linear-gradient(#0000, #0004, #0000);
+  border-radius: 1em;
+  transform-origin: 0.5em 50%;
+}
+.stick.hand {
+  transform: rotateY(var(--ry, 0)) rotateZ(var(--rz, 0deg)) translateX(5.5em);
+  -webkit-animation: hand 0.4s -0.32s infinite ease-in-out alternate;
+          animation: hand 0.4s -0.32s infinite ease-in-out alternate;
+}
+@-webkit-keyframes hand {
+  from {
+    transform: rotateY(var(--ry, 0)) rotateZ(calc(-25deg - 30deg * var(--y, 0.5))) translateX(5.5em);
+  }
+  to {
+    transform: rotateY(var(--ry, 0)) rotateZ(calc(-15deg - 30deg * var(--y, 0.5))) translateX(5.5em);
+  }
+}
+@keyframes hand {
+  from {
+    transform: rotateY(var(--ry, 0)) rotateZ(calc(-25deg - 30deg * var(--y, 0.5))) translateX(5.5em);
+  }
+  to {
+    transform: rotateY(var(--ry, 0)) rotateZ(calc(-15deg - 30deg * var(--y, 0.5))) translateX(5.5em);
+  }
+}
+.stick.hand:nth-child(2) {
+  --ry: 180deg;
+}
+.stick.finger {
+  --stickWidth: 3em;
+  transform: rotateZ(var(--rz, -30deg));
+}
+.stick.finger:nth-child(2) {
+  --rz: 10deg;
+}
+.stick.finger:nth-child(3) {
+  --rz: 40deg;
+}
+.stick::before, .stick::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: inherit;
+  transform: rotateX(60deg);
+}
+.stick::after {
+  transform: rotateX(-60deg);
+}
