@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <canvas id="canvas"></canvas>
+<div class="control initial">
+  <label class="control_label">
+    <input type="checkbox" class="control_input" name="vol" id="play">
+    <div class="control_display">
+      <svg viewBox="0 0 60 60" width="60" height="60">
+        <path class="speaker-cone" d="
+            M5 25
+            Q10 25
+            30 5
+            L30 55
+            Q10 35
+            5 35
+            Z 
+            "></path>
+        <path class="speaker-vol" d="
+            M35 25
+            A 5 5 0 0 1 35 35
+            "></path>
+        <path class="speaker-vol speaker-on" d="
+            M35 15
+            A 5 5 0 0 1 35 45
+            "></path>
+      </svg>
+    </div>
+  </label>
+</div>
+    <script src="main.js"></script>
+</body>
+</html>
